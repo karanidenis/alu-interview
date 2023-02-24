@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """ possible interview question """
 
+
 def rain(walls):
     """calculate how much water can be trapped in the walls"""
     if not walls:
